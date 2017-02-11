@@ -1,0 +1,4 @@
+a = int(input()) b = int(input()) c = int(input())
+print((a//2)+(b//2)+(c//2)+(a%2)+(b%2)+(c%2))
+
+a = int(input()) b = int(input()) l = int(input()) N = int(input()) print((N-1)*b*2+2*l+(N-1)*2*a+a)
